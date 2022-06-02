@@ -13,6 +13,6 @@ Attached in the PyCitySchools.ipynb file providing the following data tables:
 
  Written Analysis:
 
- 1. The average reading scores are higher than average math scores for every school in the district. Investing more time in teaching students math could increase the % passing overall metric.
+ 1. The average reading scores are higher than the average math scores for every school in the district. Investing more time in teaching students math could increase the % passing overall metric.
 
- 2. Average test score decrease as the size of the school increases. This could be a result of larger class sizes and reduced amount of direct attention to individual students. 
+ 2. Both average math and reading test scores decrease as the size of the school increases. This could be a result of larger class sizes and reduced amount of direct attention to individual students. 
